@@ -1,0 +1,1001 @@
+Complaint,Temperature(F),HeartRate(bpm),SpO2(%),SystolicBP(mmHg),DiastolicBP(mmHg),RespiratoryRate(bpm),TriageLevel
+Abdominal Pain,97.3,77,84,180,83,18,Emergent
+Skin Rash,102.1,130,97,120,111,12,Urgent
+Back Pain,98.1,113,96,159,109,21,Urgent
+Shortness of Breath,102.7,121,97,141,117,29,Urgent
+Diarrhea,103.0,50,83,131,85,14,Emergent
+Sore Throat,99.5,77,94,105,99,30,Semi-Urgent
+Shortness of Breath,103.0,116,90,155,64,21,Urgent
+Chest Pain,97.8,63,83,118,111,16,Emergent
+Cough,100.8,50,83,151,112,25,Emergent
+Shortness of Breath,101.5,58,80,147,109,22,Emergent
+Fever,99.9,139,88,146,61,23,Emergent
+Eye Irritation,101.7,93,93,177,68,28,Urgent
+Fever,102.4,98,100,126,88,23,Urgent
+Burn,99.1,59,92,172,90,28,Semi-Urgent
+Sore Throat,103.2,111,95,134,60,25,Emergent
+Shortness of Breath,100.7,124,95,106,115,13,Urgent
+Back Pain,101.0,80,88,163,106,22,Urgent
+Ear Pain,101.2,138,95,127,77,28,Emergent
+Skin Rash,98.2,89,85,156,110,14,Urgent
+Fever,102.0,106,88,151,93,16,Urgent
+Nausea,101.8,73,81,164,101,25,Emergent
+Eye Irritation,103.5,113,95,105,104,29,Emergent
+Cough,102.3,77,93,109,97,22,Urgent
+Dizziness,104.4,119,90,161,77,19,Emergent
+Eye Irritation,101.4,65,91,177,100,23,Urgent
+Dizziness,97.5,75,93,144,118,30,Semi-Urgent
+Fatigue,96.6,71,97,141,119,28,Non-Urgent
+Cut,97.3,94,88,147,118,29,Urgent
+Ear Pain,101.7,70,80,175,81,19,Emergent
+Allergic Reaction,102.6,55,94,137,71,30,Urgent
+Allergic Reaction,102.6,86,85,93,118,14,Urgent
+Vomiting,100.2,110,91,146,88,22,Semi-Urgent
+Chest Pain,98.2,102,92,98,88,26,Semi-Urgent
+Allergic Reaction,100.0,90,93,134,100,12,Semi-Urgent
+Abdominal Pain,97.4,124,91,138,109,16,Urgent
+Fever,99.6,98,87,176,101,12,Urgent
+Sore Throat,97.9,115,82,175,69,20,Emergent
+Burn,101.2,78,80,160,72,13,Emergent
+Vomiting,102.9,96,87,147,89,23,Urgent
+Eye Irritation,98.9,85,94,118,86,15,Non-Urgent
+Burn,100.9,81,88,156,109,25,Urgent
+Eye Irritation,101.7,87,92,113,88,14,Urgent
+Diarrhea,100.2,115,92,150,88,24,Urgent
+Allergic Reaction,102.4,97,98,142,106,14,Urgent
+Allergic Reaction,103.9,126,100,122,76,24,Emergent
+Dizziness,103.2,59,88,131,83,19,Emergent
+Ear Pain,100.4,62,96,112,95,13,Semi-Urgent
+Diarrhea,103.8,68,88,174,109,28,Emergent
+Cut,98.0,60,82,118,119,16,Emergent
+Allergic Reaction,100.3,51,99,92,106,24,Semi-Urgent
+Chest Pain,96.5,105,98,148,120,21,Semi-Urgent
+Cough,96.2,71,83,162,113,18,Emergent
+Cough,101.2,113,97,168,76,18,Urgent
+Allergic Reaction,99.8,74,88,172,68,21,Urgent
+Sore Throat,103.7,96,88,114,66,29,Emergent
+Allergic Reaction,100.8,89,86,119,103,21,Urgent
+Chest Pain,97.9,123,89,161,90,20,Urgent
+Back Pain,103.2,133,94,174,71,18,Emergent
+Cough,102.2,61,94,156,65,28,Urgent
+Vomiting,104.7,61,87,157,104,21,Emergent
+Ear Pain,103.8,64,82,158,102,20,Emergent
+Sore Throat,103.9,93,80,130,116,29,Emergent
+Abdominal Pain,97.6,63,95,167,91,29,Non-Urgent
+Vomiting,97.5,78,99,104,111,23,Non-Urgent
+Joint Pain,102.4,71,99,123,88,12,Urgent
+Back Pain,100.0,74,89,138,95,27,Urgent
+Diarrhea,100.0,79,88,142,91,21,Urgent
+Headache,97.8,119,98,159,62,16,Urgent
+Diarrhea,102.1,74,83,120,60,15,Emergent
+Shortness of Breath,101.8,110,99,152,81,25,Urgent
+Nausea,103.6,64,82,126,78,13,Emergent
+Back Pain,104.0,77,93,158,92,24,Emergent
+Allergic Reaction,98.5,52,94,164,106,20,Non-Urgent
+Shortness of Breath,98.2,95,86,116,101,15,Urgent
+Skin Rash,101.3,126,95,122,110,18,Urgent
+Vomiting,99.2,66,90,101,75,30,Semi-Urgent
+Diarrhea,103.6,135,96,96,60,19,Emergent
+Headache,101.9,57,84,100,76,20,Emergent
+Headache,98.7,67,85,104,62,15,Urgent
+Back Pain,98.0,137,82,155,101,29,Emergent
+Nausea,101.9,53,99,171,64,23,Urgent
+Cough,99.1,65,96,147,96,20,Semi-Urgent
+Joint Pain,103.1,118,86,125,84,17,Emergent
+Abdominal Pain,100.0,55,98,92,67,17,Semi-Urgent
+Eye Irritation,102.3,88,83,151,87,14,Emergent
+Dizziness,96.9,110,96,148,88,16,Semi-Urgent
+Burn,97.8,119,85,165,74,13,Urgent
+Cough,98.9,64,95,116,102,24,Non-Urgent
+Shortness of Breath,101.3,132,96,174,102,18,Emergent
+Sore Throat,99.1,57,84,138,104,18,Emergent
+Back Pain,96.4,67,82,156,61,25,Emergent
+Nausea,99.4,86,94,116,87,14,Semi-Urgent
+Fever,104.2,91,94,159,91,23,Emergent
+Shortness of Breath,103.5,109,82,122,90,29,Emergent
+Nausea,100.2,65,93,175,74,16,Semi-Urgent
+Cough,99.5,52,93,161,120,25,Semi-Urgent
+Joint Pain,101.8,68,89,147,99,19,Urgent
+Skin Rash,101.7,80,95,161,67,22,Urgent
+Joint Pain,104.4,136,94,146,83,24,Emergent
+Fatigue,100.6,131,83,162,91,18,Emergent
+Vomiting,101.8,62,93,156,95,25,Urgent
+Eye Irritation,97.4,95,82,161,108,13,Emergent
+Eye Irritation,97.8,64,90,143,82,17,Semi-Urgent
+Cut,104.6,86,84,176,64,17,Emergent
+Back Pain,97.5,74,99,173,82,16,Non-Urgent
+Fever,97.0,128,95,158,70,28,Urgent
+Cough,98.1,60,97,137,112,30,Non-Urgent
+Back Pain,97.1,77,98,128,102,17,Non-Urgent
+Joint Pain,96.2,62,94,98,94,15,Non-Urgent
+Allergic Reaction,103.7,79,83,130,73,23,Emergent
+Burn,99.4,84,99,162,120,19,Semi-Urgent
+Ear Pain,104.6,83,83,153,77,20,Emergent
+Eye Irritation,100.1,138,81,121,103,13,Emergent
+Dizziness,96.8,139,94,150,106,20,Emergent
+Fever,101.8,100,86,104,110,14,Urgent
+Sore Throat,98.9,123,82,113,105,17,Emergent
+Abdominal Pain,101.5,58,86,121,117,12,Urgent
+Fatigue,102.9,78,99,166,92,28,Urgent
+Fever,102.0,68,98,90,111,22,Urgent
+Cut,102.3,124,90,136,69,21,Urgent
+Joint Pain,103.1,123,89,131,67,20,Emergent
+Dizziness,96.8,95,89,170,103,18,Urgent
+Shortness of Breath,100.9,98,100,170,75,14,Semi-Urgent
+Chest Pain,103.2,102,93,127,69,16,Emergent
+Headache,104.6,65,85,145,99,19,Emergent
+Headache,96.5,110,94,134,119,26,Semi-Urgent
+Cough,101.9,51,86,107,66,28,Urgent
+Sore Throat,97.1,129,86,143,74,17,Urgent
+Joint Pain,104.1,93,82,178,120,13,Emergent
+Burn,101.0,134,99,149,81,28,Emergent
+Chest Pain,100.5,65,85,146,89,23,Urgent
+Abdominal Pain,99.8,91,91,104,87,17,Semi-Urgent
+Vomiting,103.0,124,86,144,90,22,Urgent
+Headache,100.1,54,93,103,70,28,Semi-Urgent
+Shortness of Breath,97.5,107,92,115,66,26,Semi-Urgent
+Allergic Reaction,103.9,136,94,115,82,24,Emergent
+Shortness of Breath,103.6,73,96,166,100,18,Emergent
+Chest Pain,103.7,139,96,150,62,20,Emergent
+Nausea,96.7,115,89,107,84,28,Urgent
+Joint Pain,102.0,137,88,156,109,16,Emergent
+Vomiting,103.0,131,84,154,118,21,Emergent
+Cut,97.6,78,91,171,74,20,Semi-Urgent
+Chest Pain,103.6,111,92,98,71,15,Emergent
+Headache,102.0,68,84,90,93,25,Emergent
+Shortness of Breath,101.3,78,89,102,72,17,Urgent
+Allergic Reaction,101.8,55,87,100,72,15,Urgent
+Eye Irritation,102.2,128,80,177,97,12,Emergent
+Joint Pain,100.4,58,97,100,84,12,Semi-Urgent
+Vomiting,98.2,100,90,152,91,26,Semi-Urgent
+Joint Pain,103.6,75,91,166,95,14,Emergent
+Cut,101.4,107,98,146,90,28,Urgent
+Cut,104.8,76,92,167,113,26,Emergent
+Shortness of Breath,100.2,104,83,169,106,30,Emergent
+Sore Throat,96.2,63,89,92,111,24,Urgent
+Headache,102.8,76,92,117,101,27,Urgent
+Cut,98.4,113,100,143,65,17,Urgent
+Fatigue,100.4,78,95,138,94,26,Semi-Urgent
+Eye Irritation,98.2,83,99,164,80,29,Non-Urgent
+Ear Pain,100.0,121,82,109,109,20,Emergent
+Headache,97.0,103,81,97,119,16,Emergent
+Abdominal Pain,98.2,67,92,92,84,17,Semi-Urgent
+Shortness of Breath,102.3,75,87,108,109,22,Urgent
+Fever,96.5,66,80,145,62,29,Emergent
+Headache,104.3,136,83,178,70,23,Emergent
+Headache,101.1,114,83,96,110,30,Emergent
+Dizziness,103.6,124,80,140,107,16,Emergent
+Allergic Reaction,99.1,101,93,123,80,28,Semi-Urgent
+Cough,103.9,75,98,173,107,29,Emergent
+Abdominal Pain,96.4,80,100,157,75,29,Non-Urgent
+Vomiting,99.8,50,98,96,63,23,Semi-Urgent
+Allergic Reaction,97.3,114,95,102,86,16,Urgent
+Diarrhea,102.2,70,95,174,68,22,Urgent
+Cough,104.5,75,84,98,94,14,Emergent
+Sore Throat,101.3,129,80,134,89,28,Emergent
+Cough,97.2,65,81,137,72,25,Emergent
+Cut,102.6,138,89,115,81,22,Emergent
+Dizziness,104.7,95,94,128,80,14,Emergent
+Fever,99.7,58,88,128,75,17,Urgent
+Joint Pain,100.5,55,88,115,109,20,Urgent
+Shortness of Breath,97.6,59,97,124,115,29,Non-Urgent
+Fever,101.1,101,81,152,86,18,Emergent
+Eye Irritation,97.9,54,86,131,102,27,Urgent
+Ear Pain,103.0,97,86,103,99,23,Urgent
+Allergic Reaction,104.6,102,90,119,105,25,Emergent
+Cut,101.0,127,98,138,116,24,Urgent
+Diarrhea,96.3,83,91,128,61,19,Semi-Urgent
+Cut,99.0,80,93,132,109,12,Semi-Urgent
+Cough,98.5,98,95,173,101,23,Semi-Urgent
+Fatigue,102.4,91,88,136,111,22,Urgent
+Cough,97.0,64,96,150,68,19,Non-Urgent
+Joint Pain,102.4,135,84,121,97,24,Emergent
+Diarrhea,98.1,104,93,126,112,22,Semi-Urgent
+Ear Pain,101.0,126,90,91,62,30,Urgent
+Allergic Reaction,98.5,112,82,134,86,19,Emergent
+Diarrhea,96.7,98,99,103,115,14,Semi-Urgent
+Back Pain,102.0,95,85,150,74,14,Urgent
+Allergic Reaction,102.8,137,86,173,85,25,Emergent
+Skin Rash,96.4,121,89,156,108,26,Urgent
+Cough,101.9,102,82,118,98,17,Emergent
+Chest Pain,103.1,97,90,167,94,18,Emergent
+Cough,103.5,135,82,105,115,16,Emergent
+Burn,102.9,94,81,110,74,19,Emergent
+Nausea,99.7,138,99,170,64,23,Emergent
+Headache,104.8,67,83,103,91,19,Emergent
+Nausea,97.7,59,98,91,105,15,Non-Urgent
+Sore Throat,98.2,69,95,154,106,27,Non-Urgent
+Burn,101.9,110,97,160,106,18,Urgent
+Dizziness,103.9,97,92,110,73,13,Emergent
+Cut,102.3,59,97,115,93,25,Urgent
+Nausea,98.1,101,81,114,81,28,Emergent
+Shortness of Breath,101.5,87,80,141,74,20,Emergent
+Chest Pain,99.7,118,93,163,103,25,Urgent
+Vomiting,100.5,55,88,157,86,21,Urgent
+Diarrhea,99.3,68,87,169,110,19,Urgent
+Headache,103.7,113,88,95,94,19,Emergent
+Abdominal Pain,99.2,115,89,123,115,13,Urgent
+Back Pain,104.3,134,94,179,87,19,Emergent
+Chest Pain,98.6,110,90,96,96,15,Semi-Urgent
+Back Pain,97.5,74,93,127,71,23,Semi-Urgent
+Back Pain,101.1,64,85,179,96,30,Urgent
+Cough,103.0,87,88,146,61,26,Urgent
+Nausea,102.4,58,95,97,104,19,Urgent
+Dizziness,103.2,84,98,124,91,23,Emergent
+Burn,101.5,57,84,92,74,25,Emergent
+Fever,99.9,61,83,179,74,13,Emergent
+Chest Pain,102.5,62,86,148,81,12,Urgent
+Shortness of Breath,99.5,92,91,155,80,30,Semi-Urgent
+Burn,99.9,139,93,128,98,26,Emergent
+Eye Irritation,104.5,75,89,114,86,30,Emergent
+Abdominal Pain,104.1,96,93,124,72,19,Emergent
+Skin Rash,98.0,113,90,102,98,30,Urgent
+Shortness of Breath,97.9,131,84,141,77,14,Emergent
+Nausea,100.0,109,83,138,66,19,Emergent
+Ear Pain,98.4,103,95,111,93,25,Semi-Urgent
+Dizziness,98.6,140,80,164,113,20,Emergent
+Abdominal Pain,104.2,90,80,153,60,24,Emergent
+Joint Pain,101.1,113,85,138,90,24,Urgent
+Eye Irritation,100.7,117,84,158,79,26,Emergent
+Sore Throat,97.0,79,80,111,65,27,Emergent
+Diarrhea,99.2,82,99,100,85,13,Semi-Urgent
+Chest Pain,98.1,130,94,174,82,27,Urgent
+Nausea,97.9,61,80,138,79,30,Emergent
+Cough,101.7,129,81,107,102,29,Emergent
+Skin Rash,102.3,70,88,130,79,29,Urgent
+Burn,103.9,104,95,142,63,28,Emergent
+Fatigue,101.3,78,92,120,67,26,Urgent
+Nausea,96.2,80,91,101,86,29,Semi-Urgent
+Ear Pain,98.6,66,80,176,112,21,Emergent
+Skin Rash,96.6,90,85,123,71,29,Urgent
+Cut,100.5,83,85,98,96,28,Urgent
+Shortness of Breath,99.1,74,96,131,92,24,Semi-Urgent
+Ear Pain,101.0,66,96,116,73,14,Semi-Urgent
+Diarrhea,98.0,53,89,164,78,28,Urgent
+Eye Irritation,104.2,129,94,124,106,16,Emergent
+Ear Pain,99.6,114,98,163,82,21,Urgent
+Dizziness,103.1,71,85,136,69,20,Emergent
+Fatigue,99.2,106,87,158,76,12,Urgent
+Ear Pain,104.8,94,83,170,88,24,Emergent
+Diarrhea,102.3,77,96,167,108,19,Urgent
+Cut,99.4,124,82,94,67,17,Emergent
+Burn,104.6,115,81,171,66,14,Emergent
+Skin Rash,101.5,96,89,108,75,25,Urgent
+Cough,99.5,137,86,114,83,13,Emergent
+Sore Throat,97.3,88,84,156,116,30,Emergent
+Diarrhea,104.6,138,85,144,115,20,Emergent
+Cough,97.8,122,81,95,95,12,Emergent
+Cough,102.8,118,87,98,115,24,Urgent
+Eye Irritation,96.2,53,91,167,107,18,Semi-Urgent
+Nausea,103.8,128,98,175,112,13,Emergent
+Skin Rash,100.2,70,91,140,70,27,Semi-Urgent
+Back Pain,96.7,59,87,157,81,18,Urgent
+Sore Throat,101.3,88,95,144,106,27,Urgent
+Allergic Reaction,102.4,125,86,135,114,20,Urgent
+Vomiting,103.1,74,84,156,83,25,Emergent
+Sore Throat,98.6,93,98,129,76,27,Semi-Urgent
+Eye Irritation,98.9,87,100,156,73,29,Non-Urgent
+Back Pain,97.1,57,83,158,60,29,Emergent
+Cough,98.5,72,85,162,108,19,Urgent
+Joint Pain,101.1,105,80,121,62,25,Emergent
+Eye Irritation,103.4,84,81,179,75,25,Emergent
+Allergic Reaction,96.4,86,82,138,70,25,Emergent
+Shortness of Breath,98.4,130,96,95,98,22,Urgent
+Burn,97.0,110,85,117,112,28,Urgent
+Allergic Reaction,96.6,94,90,138,71,22,Semi-Urgent
+Nausea,97.7,91,80,179,88,15,Emergent
+Burn,98.3,88,100,166,116,25,Non-Urgent
+Cough,101.2,89,86,94,119,19,Urgent
+Abdominal Pain,104.1,79,86,130,74,15,Emergent
+Fatigue,102.3,131,99,125,96,12,Emergent
+Sore Throat,96.1,96,89,91,90,19,Urgent
+Burn,98.8,99,98,101,64,20,Semi-Urgent
+Burn,99.9,72,92,148,99,20,Semi-Urgent
+Nausea,98.0,91,100,154,118,24,Semi-Urgent
+Skin Rash,96.6,92,94,109,100,18,Semi-Urgent
+Eye Irritation,101.0,80,99,135,107,17,Semi-Urgent
+Eye Irritation,97.1,125,84,118,98,27,Emergent
+Headache,100.0,72,95,100,74,25,Semi-Urgent
+Eye Irritation,97.7,129,83,158,69,28,Emergent
+Abdominal Pain,103.2,127,88,92,90,15,Emergent
+Fever,99.8,136,90,91,87,18,Emergent
+Cut,98.0,108,94,155,95,17,Semi-Urgent
+Eye Irritation,96.4,137,95,114,97,23,Emergent
+Cut,98.9,78,87,152,86,20,Urgent
+Allergic Reaction,104.4,78,85,164,102,18,Emergent
+Headache,100.1,74,83,118,70,27,Emergent
+Fever,97.5,81,87,100,93,15,Urgent
+Eye Irritation,99.0,82,85,154,87,14,Urgent
+Sore Throat,96.5,105,82,124,91,19,Emergent
+Fatigue,102.1,106,89,118,91,13,Urgent
+Skin Rash,100.4,96,91,118,66,20,Semi-Urgent
+Diarrhea,98.0,82,99,128,112,26,Non-Urgent
+Joint Pain,98.2,113,93,92,66,12,Urgent
+Joint Pain,96.7,113,84,94,99,26,Emergent
+Eye Irritation,102.8,136,84,107,89,19,Emergent
+Nausea,104.4,113,91,113,76,15,Emergent
+Joint Pain,98.8,97,85,176,74,22,Urgent
+Skin Rash,102.5,130,98,108,107,20,Urgent
+Sore Throat,96.7,92,99,140,113,30,Semi-Urgent
+Cut,97.0,90,92,117,94,25,Semi-Urgent
+Cough,102.8,110,80,126,97,27,Emergent
+Vomiting,99.1,93,92,169,95,30,Semi-Urgent
+Chest Pain,102.8,121,93,178,105,13,Urgent
+Cough,104.3,86,99,156,104,12,Emergent
+Burn,100.0,108,96,119,107,21,Semi-Urgent
+Cut,104.3,70,100,102,117,22,Emergent
+Eye Irritation,104.3,127,86,134,110,13,Emergent
+Shortness of Breath,97.0,102,82,111,98,20,Emergent
+Eye Irritation,104.8,80,92,126,94,24,Emergent
+Fever,103.0,79,80,140,94,29,Emergent
+Fatigue,96.1,127,96,117,106,21,Urgent
+Ear Pain,99.0,127,98,106,95,14,Urgent
+Headache,97.6,86,80,149,90,15,Emergent
+Back Pain,104.1,85,99,148,101,14,Emergent
+Skin Rash,99.9,129,92,147,111,26,Urgent
+Vomiting,105.0,110,86,132,89,26,Emergent
+Nausea,104.8,137,82,127,76,18,Emergent
+Shortness of Breath,104.8,87,99,95,120,24,Emergent
+Fever,102.6,140,85,125,83,25,Emergent
+Dizziness,103.6,101,98,161,117,21,Emergent
+Allergic Reaction,98.8,120,94,108,101,27,Urgent
+Sore Throat,101.0,137,98,169,116,30,Emergent
+Nausea,100.4,91,90,151,70,13,Semi-Urgent
+Fever,102.6,70,92,141,89,14,Urgent
+Eye Irritation,98.3,71,95,112,87,17,Non-Urgent
+Skin Rash,102.8,82,88,99,117,17,Urgent
+Allergic Reaction,104.2,98,82,114,100,18,Emergent
+Back Pain,99.3,91,97,144,62,14,Semi-Urgent
+Fatigue,99.1,133,98,100,74,22,Emergent
+Eye Irritation,97.3,64,81,93,74,27,Emergent
+Vomiting,99.9,136,96,120,114,23,Emergent
+Vomiting,101.3,73,80,93,112,14,Emergent
+Chest Pain,102.3,79,91,175,113,15,Urgent
+Vomiting,98.1,98,90,167,88,29,Semi-Urgent
+Abdominal Pain,98.8,118,89,102,73,23,Urgent
+Sore Throat,102.7,63,98,156,106,14,Urgent
+Dizziness,102.5,50,91,112,87,25,Urgent
+Cut,100.5,52,84,112,66,22,Emergent
+Fatigue,101.1,117,85,120,60,25,Urgent
+Sore Throat,99.7,63,87,163,87,25,Urgent
+Sore Throat,101.1,132,94,107,62,21,Emergent
+Abdominal Pain,104.1,104,81,178,79,12,Emergent
+Joint Pain,103.5,96,90,168,119,28,Emergent
+Fever,99.7,62,99,139,76,18,Semi-Urgent
+Ear Pain,98.8,82,100,140,67,29,Non-Urgent
+Vomiting,101.4,105,80,102,111,28,Emergent
+Dizziness,102.7,52,99,158,96,27,Urgent
+Cough,103.0,73,95,97,102,17,Urgent
+Diarrhea,97.8,121,81,116,113,24,Emergent
+Allergic Reaction,101.6,128,89,158,60,27,Urgent
+Burn,96.2,133,80,124,88,27,Emergent
+Dizziness,104.9,85,98,180,111,25,Emergent
+Cough,99.3,75,91,103,101,14,Semi-Urgent
+Headache,102.0,119,83,99,84,14,Emergent
+Eye Irritation,100.4,97,87,105,75,28,Urgent
+Vomiting,98.8,53,84,150,103,12,Emergent
+Joint Pain,98.6,121,85,118,92,20,Urgent
+Nausea,96.2,114,80,108,68,23,Emergent
+Nausea,103.9,81,82,161,78,18,Emergent
+Dizziness,99.1,78,98,138,109,20,Semi-Urgent
+Skin Rash,104.9,92,88,128,89,29,Emergent
+Vomiting,97.5,130,89,123,112,18,Urgent
+Allergic Reaction,97.6,56,95,162,115,16,Non-Urgent
+Joint Pain,97.5,102,98,161,79,27,Semi-Urgent
+Vomiting,96.4,84,96,91,63,25,Non-Urgent
+Headache,104.9,62,96,115,86,28,Emergent
+Fatigue,96.7,119,97,178,64,17,Urgent
+Chest Pain,98.1,112,96,90,106,14,Urgent
+Back Pain,103.4,121,88,117,93,24,Emergent
+Diarrhea,96.9,64,90,122,105,21,Semi-Urgent
+Dizziness,102.5,129,95,100,64,21,Urgent
+Dizziness,96.1,65,94,110,90,18,Non-Urgent
+Diarrhea,100.6,128,96,156,69,15,Urgent
+Shortness of Breath,100.9,137,80,105,75,25,Emergent
+Eye Irritation,99.6,92,93,101,80,17,Semi-Urgent
+Abdominal Pain,98.1,106,92,180,61,28,Semi-Urgent
+Shortness of Breath,101.6,105,87,142,91,14,Urgent
+Back Pain,103.6,136,80,127,101,29,Emergent
+Joint Pain,102.4,52,89,174,89,23,Urgent
+Chest Pain,101.6,58,82,152,116,19,Emergent
+Cut,104.0,122,80,144,87,20,Emergent
+Vomiting,96.7,72,99,148,61,18,Non-Urgent
+Eye Irritation,99.0,87,83,150,69,21,Emergent
+Vomiting,102.7,91,94,95,115,30,Urgent
+Fever,99.2,52,86,166,70,23,Urgent
+Back Pain,102.5,63,82,155,62,29,Emergent
+Cough,100.3,91,99,164,76,14,Semi-Urgent
+Allergic Reaction,97.8,105,84,122,65,27,Emergent
+Ear Pain,102.9,98,100,136,89,20,Urgent
+Ear Pain,102.0,139,92,98,65,30,Emergent
+Cut,102.7,70,92,178,110,17,Urgent
+Dizziness,104.9,131,82,108,101,15,Emergent
+Dizziness,97.2,109,99,134,69,26,Semi-Urgent
+Eye Irritation,99.3,56,97,141,77,28,Semi-Urgent
+Fever,97.5,81,90,179,62,27,Semi-Urgent
+Burn,103.5,53,99,174,64,21,Emergent
+Cough,96.0,121,82,98,89,16,Emergent
+Ear Pain,97.4,52,96,149,73,16,Non-Urgent
+Shortness of Breath,101.4,65,99,129,82,22,Urgent
+Joint Pain,98.0,134,87,112,72,16,Emergent
+Allergic Reaction,103.9,121,93,131,117,20,Emergent
+Fever,100.3,87,97,129,92,25,Semi-Urgent
+Joint Pain,101.0,107,87,126,68,18,Urgent
+Dizziness,101.0,89,87,157,97,28,Urgent
+Nausea,104.6,103,89,97,115,14,Emergent
+Burn,102.7,95,80,157,62,27,Emergent
+Nausea,102.5,122,85,170,108,21,Urgent
+Fever,102.2,133,88,157,88,24,Emergent
+Headache,102.4,79,85,92,93,20,Urgent
+Sore Throat,98.7,130,82,140,73,30,Emergent
+Shortness of Breath,102.5,67,99,125,61,23,Urgent
+Fatigue,102.4,106,84,160,97,14,Emergent
+Skin Rash,99.1,105,90,105,88,16,Semi-Urgent
+Back Pain,96.0,94,98,124,104,25,Semi-Urgent
+Headache,99.1,85,85,96,61,29,Urgent
+Joint Pain,102.8,134,93,169,106,18,Emergent
+Fever,98.8,139,89,103,95,23,Emergent
+Vomiting,102.5,89,99,165,61,20,Urgent
+Fever,96.9,113,95,110,96,18,Urgent
+Nausea,97.0,60,93,176,92,15,Semi-Urgent
+Abdominal Pain,104.0,70,95,134,109,30,Emergent
+Skin Rash,102.4,96,98,100,110,21,Urgent
+Headache,99.0,91,97,144,90,19,Semi-Urgent
+Eye Irritation,99.1,91,84,120,79,20,Emergent
+Fever,102.0,120,96,130,75,17,Urgent
+Cut,96.7,61,96,103,96,26,Non-Urgent
+Cough,99.9,137,98,137,88,24,Emergent
+Diarrhea,100.4,68,84,116,64,24,Emergent
+Allergic Reaction,97.0,135,95,170,105,22,Emergent
+Dizziness,100.0,72,86,138,120,26,Urgent
+Diarrhea,98.9,105,81,130,64,26,Emergent
+Fever,100.9,116,99,143,77,15,Urgent
+Cut,103.9,117,87,162,89,22,Emergent
+Vomiting,103.8,129,95,145,60,28,Emergent
+Burn,103.8,135,84,92,84,25,Emergent
+Back Pain,97.2,104,91,141,117,14,Semi-Urgent
+Fever,97.0,136,93,124,79,26,Emergent
+Skin Rash,99.5,105,98,172,83,27,Semi-Urgent
+Allergic Reaction,97.3,76,83,126,91,25,Emergent
+Headache,103.6,100,89,159,88,14,Emergent
+Sore Throat,104.3,102,99,129,113,18,Emergent
+Back Pain,98.9,125,80,170,96,25,Emergent
+Shortness of Breath,102.7,69,92,128,76,30,Urgent
+Shortness of Breath,101.6,113,81,151,95,22,Emergent
+Abdominal Pain,104.4,67,92,148,110,19,Emergent
+Sore Throat,99.8,74,90,124,112,30,Semi-Urgent
+Chest Pain,98.0,120,99,115,118,21,Urgent
+Diarrhea,98.4,73,100,117,117,17,Non-Urgent
+Ear Pain,104.7,124,84,109,71,12,Emergent
+Back Pain,98.7,111,84,107,108,17,Emergent
+Sore Throat,96.5,114,80,156,116,26,Emergent
+Skin Rash,102.9,97,89,126,88,18,Urgent
+Fatigue,104.7,140,82,103,99,29,Emergent
+Allergic Reaction,98.5,57,95,123,100,12,Non-Urgent
+Fever,99.8,80,91,163,97,24,Semi-Urgent
+Headache,98.5,76,91,140,94,27,Semi-Urgent
+Burn,99.0,59,100,167,104,20,Non-Urgent
+Cut,96.2,67,92,109,100,18,Semi-Urgent
+Vomiting,103.4,90,90,105,85,19,Emergent
+Cough,100.5,117,80,132,84,19,Emergent
+Nausea,99.1,127,100,129,92,13,Urgent
+Skin Rash,102.3,103,81,101,64,19,Emergent
+Chest Pain,101.8,102,83,134,98,23,Emergent
+Burn,97.1,112,97,99,89,23,Urgent
+Dizziness,97.9,131,96,176,91,18,Emergent
+Chest Pain,99.2,134,82,113,69,21,Emergent
+Skin Rash,98.4,69,80,130,61,22,Emergent
+Headache,98.2,68,94,116,69,29,Non-Urgent
+Shortness of Breath,102.8,81,87,109,73,21,Urgent
+Allergic Reaction,102.1,134,89,155,111,18,Emergent
+Skin Rash,103.2,72,100,109,106,22,Emergent
+Headache,100.5,124,84,118,107,18,Emergent
+Fever,101.3,129,83,157,74,20,Emergent
+Back Pain,97.6,74,83,95,118,18,Emergent
+Burn,96.4,134,86,92,120,21,Emergent
+Vomiting,96.4,75,100,111,92,14,Non-Urgent
+Nausea,102.1,63,93,115,97,23,Urgent
+Fever,101.6,128,80,161,96,20,Emergent
+Eye Irritation,100.2,64,93,120,94,20,Semi-Urgent
+Skin Rash,97.5,59,92,165,104,12,Semi-Urgent
+Burn,103.1,131,98,170,118,26,Emergent
+Sore Throat,103.1,56,82,176,115,15,Emergent
+Ear Pain,97.0,56,80,136,96,15,Emergent
+Headache,104.1,96,87,136,101,16,Emergent
+Cut,101.3,115,94,124,70,20,Urgent
+Shortness of Breath,98.6,88,90,96,71,17,Semi-Urgent
+Cut,98.4,107,84,110,71,19,Emergent
+Ear Pain,103.2,135,99,157,85,17,Emergent
+Cut,98.1,109,86,151,60,23,Urgent
+Ear Pain,102.8,57,80,159,69,16,Emergent
+Ear Pain,102.8,93,100,152,67,15,Urgent
+Cut,98.9,58,96,152,97,13,Non-Urgent
+Eye Irritation,100.5,115,88,169,104,30,Urgent
+Fatigue,103.7,126,82,146,95,14,Emergent
+Back Pain,99.0,129,88,148,116,28,Urgent
+Burn,98.3,97,96,119,66,17,Semi-Urgent
+Burn,97.3,120,95,133,68,20,Urgent
+Joint Pain,99.2,81,80,177,97,22,Emergent
+Diarrhea,100.8,135,94,158,103,15,Emergent
+Cut,99.3,62,92,164,98,18,Semi-Urgent
+Cough,103.8,61,85,103,118,13,Emergent
+Eye Irritation,100.5,129,81,105,97,30,Emergent
+Fatigue,98.8,72,81,90,81,23,Emergent
+Back Pain,97.3,95,97,163,103,30,Semi-Urgent
+Burn,103.9,82,91,163,60,23,Emergent
+Diarrhea,101.3,80,98,144,66,20,Urgent
+Dizziness,104.9,83,100,124,67,23,Emergent
+Skin Rash,104.1,110,90,161,75,20,Emergent
+Ear Pain,104.7,94,86,149,74,28,Emergent
+Cough,98.3,121,100,100,106,12,Urgent
+Eye Irritation,102.8,51,89,146,119,18,Urgent
+Dizziness,99.4,140,100,119,83,24,Emergent
+Chest Pain,97.7,121,98,110,78,24,Urgent
+Nausea,98.0,74,81,126,83,27,Emergent
+Back Pain,96.4,70,100,96,72,21,Non-Urgent
+Dizziness,98.4,57,91,159,95,16,Semi-Urgent
+Chest Pain,96.9,108,89,101,75,24,Urgent
+Back Pain,98.2,90,87,123,69,16,Urgent
+Fever,101.3,128,89,151,89,16,Urgent
+Vomiting,103.2,54,95,90,89,13,Emergent
+Nausea,103.1,133,82,156,68,30,Emergent
+Shortness of Breath,99.5,67,94,90,115,28,Semi-Urgent
+Dizziness,104.5,103,92,177,90,12,Emergent
+Back Pain,99.1,76,90,109,88,25,Semi-Urgent
+Cough,101.2,90,98,156,71,24,Urgent
+Sore Throat,97.4,135,87,158,82,27,Emergent
+Cut,100.3,88,81,152,62,23,Emergent
+Allergic Reaction,103.8,108,96,115,117,22,Emergent
+Sore Throat,103.0,60,84,132,109,27,Emergent
+Abdominal Pain,102.5,56,81,91,60,18,Emergent
+Fatigue,101.0,86,91,121,79,20,Semi-Urgent
+Ear Pain,103.0,131,80,98,90,23,Emergent
+Vomiting,104.5,79,98,127,71,23,Emergent
+Cough,96.6,117,89,90,75,22,Urgent
+Vomiting,96.9,134,88,163,68,13,Emergent
+Nausea,101.1,119,90,120,112,12,Urgent
+Fatigue,99.5,77,83,170,65,28,Emergent
+Dizziness,102.4,139,98,179,117,12,Emergent
+Back Pain,103.7,122,87,168,93,20,Emergent
+Vomiting,99.2,140,96,151,71,15,Emergent
+Cough,99.8,121,95,104,104,26,Urgent
+Joint Pain,102.6,140,96,145,110,29,Emergent
+Nausea,96.0,132,100,107,101,26,Emergent
+Cut,103.5,68,100,99,108,19,Emergent
+Vomiting,98.5,72,89,131,84,23,Urgent
+Chest Pain,102.6,67,98,178,91,22,Urgent
+Allergic Reaction,98.9,129,90,151,83,14,Urgent
+Burn,103.2,54,83,156,119,17,Emergent
+Chest Pain,101.5,101,86,125,120,26,Urgent
+Sore Throat,97.4,97,98,143,97,13,Semi-Urgent
+Headache,103.7,101,98,129,89,20,Emergent
+Shortness of Breath,97.4,86,83,107,97,23,Emergent
+Burn,102.4,112,84,139,107,27,Emergent
+Cough,104.2,101,88,115,92,28,Emergent
+Allergic Reaction,102.8,72,84,162,84,15,Emergent
+Allergic Reaction,97.5,64,83,98,94,29,Emergent
+Cut,99.0,96,90,163,110,12,Semi-Urgent
+Abdominal Pain,98.9,90,82,133,72,17,Emergent
+Vomiting,101.7,91,82,120,66,29,Emergent
+Dizziness,98.4,52,95,154,68,19,Non-Urgent
+Abdominal Pain,104.5,94,100,96,101,29,Emergent
+Burn,103.3,75,83,136,93,20,Emergent
+Nausea,99.8,63,89,137,116,26,Urgent
+Cough,103.1,84,87,106,82,22,Emergent
+Allergic Reaction,97.1,127,80,125,115,24,Emergent
+Fever,102.7,79,96,146,90,27,Urgent
+Back Pain,101.5,115,92,139,72,16,Urgent
+Sore Throat,100.8,139,81,113,77,29,Emergent
+Headache,97.9,136,88,161,89,17,Emergent
+Cough,101.6,73,82,141,96,16,Emergent
+Shortness of Breath,102.1,136,81,122,84,25,Emergent
+Cough,98.7,117,86,172,61,17,Urgent
+Skin Rash,100.1,134,88,163,111,25,Emergent
+Sore Throat,103.5,92,80,140,65,17,Emergent
+Cut,98.5,63,88,104,93,29,Urgent
+Vomiting,100.5,98,80,128,116,21,Emergent
+Sore Throat,102.7,113,80,148,80,15,Emergent
+Vomiting,100.5,84,88,161,78,30,Urgent
+Joint Pain,104.0,110,82,138,115,25,Emergent
+Vomiting,100.9,135,100,100,71,14,Emergent
+Fatigue,99.0,122,100,130,63,16,Urgent
+Skin Rash,100.5,91,93,160,71,25,Semi-Urgent
+Chest Pain,99.9,91,85,98,73,30,Urgent
+Back Pain,102.1,65,86,119,83,27,Urgent
+Abdominal Pain,102.6,119,84,93,67,21,Emergent
+Ear Pain,101.4,65,82,100,87,25,Emergent
+Nausea,102.1,138,82,165,79,16,Emergent
+Skin Rash,99.9,52,87,115,105,29,Urgent
+Cut,97.5,116,96,105,73,14,Urgent
+Dizziness,102.6,73,88,179,61,18,Urgent
+Allergic Reaction,97.1,95,100,117,62,19,Semi-Urgent
+Ear Pain,99.4,104,100,136,89,22,Semi-Urgent
+Back Pain,102.5,92,81,131,106,12,Emergent
+Joint Pain,102.3,55,83,142,118,21,Emergent
+Vomiting,100.5,90,93,138,81,16,Semi-Urgent
+Abdominal Pain,103.7,61,93,180,85,12,Emergent
+Burn,98.9,101,96,162,74,26,Semi-Urgent
+Back Pain,103.1,98,93,179,75,20,Emergent
+Ear Pain,98.3,79,82,177,82,13,Emergent
+Cough,101.6,83,89,142,118,28,Urgent
+Sore Throat,104.7,99,88,114,86,26,Emergent
+Headache,104.4,110,81,131,110,21,Emergent
+Dizziness,103.6,106,92,113,99,13,Emergent
+Cut,102.8,61,100,171,118,26,Urgent
+Cut,99.6,110,91,137,100,22,Semi-Urgent
+Back Pain,98.8,102,81,107,116,14,Emergent
+Dizziness,98.4,117,97,135,67,22,Urgent
+Burn,99.8,90,92,164,73,27,Semi-Urgent
+Nausea,100.4,98,83,142,115,19,Emergent
+Fever,99.2,95,100,145,80,19,Semi-Urgent
+Nausea,100.1,90,87,132,114,12,Urgent
+Fatigue,101.0,97,100,145,88,13,Semi-Urgent
+Dizziness,101.4,73,89,123,91,30,Urgent
+Nausea,96.1,101,97,156,109,19,Semi-Urgent
+Allergic Reaction,102.2,130,97,159,68,20,Urgent
+Shortness of Breath,96.5,77,95,137,100,21,Non-Urgent
+Sore Throat,97.8,79,93,167,77,19,Semi-Urgent
+Vomiting,96.8,110,89,107,118,13,Urgent
+Back Pain,99.2,135,87,178,93,20,Emergent
+Fever,102.5,77,92,118,85,25,Urgent
+Sore Throat,100.5,131,85,163,107,25,Emergent
+Sore Throat,104.7,78,84,110,65,30,Emergent
+Chest Pain,96.5,108,82,156,89,22,Emergent
+Back Pain,98.0,60,91,154,114,26,Semi-Urgent
+Shortness of Breath,102.0,121,98,95,109,26,Urgent
+Shortness of Breath,97.9,94,89,177,106,15,Urgent
+Burn,101.6,99,91,168,99,17,Urgent
+Abdominal Pain,102.6,72,93,177,110,20,Urgent
+Headache,96.9,137,94,101,92,12,Emergent
+Joint Pain,97.8,90,83,106,99,17,Emergent
+Fever,104.2,98,82,159,62,14,Emergent
+Dizziness,96.1,69,84,134,99,22,Emergent
+Headache,102.5,51,94,99,70,25,Urgent
+Joint Pain,104.3,126,100,164,110,16,Emergent
+Back Pain,99.2,126,84,97,90,13,Emergent
+Back Pain,96.5,97,91,104,93,30,Semi-Urgent
+Abdominal Pain,99.4,81,85,107,119,23,Urgent
+Cut,100.5,58,99,128,69,20,Semi-Urgent
+Fatigue,102.0,83,90,127,78,29,Urgent
+Abdominal Pain,103.3,104,97,130,78,16,Emergent
+Chest Pain,102.5,61,83,150,118,17,Emergent
+Fatigue,103.2,70,90,157,92,23,Emergent
+Fever,103.3,97,97,110,86,28,Emergent
+Vomiting,97.0,139,91,138,95,26,Emergent
+Skin Rash,104.6,87,85,178,116,24,Emergent
+Allergic Reaction,99.7,77,83,147,96,17,Emergent
+Headache,104.1,70,91,117,67,23,Emergent
+Burn,98.1,125,89,154,112,19,Urgent
+Diarrhea,99.1,84,93,90,112,27,Semi-Urgent
+Vomiting,104.6,131,100,168,117,27,Emergent
+Ear Pain,105.0,58,87,117,76,16,Emergent
+Abdominal Pain,103.5,86,99,154,113,25,Emergent
+Fever,103.2,124,93,152,88,28,Emergent
+Cough,96.7,50,82,160,98,16,Emergent
+Ear Pain,99.6,107,86,106,70,28,Urgent
+Abdominal Pain,96.5,139,87,170,61,26,Emergent
+Sore Throat,102.7,84,91,180,87,30,Urgent
+Chest Pain,102.7,120,86,156,119,16,Urgent
+Cut,98.6,74,90,109,120,29,Semi-Urgent
+Headache,100.2,65,92,125,97,28,Semi-Urgent
+Eye Irritation,97.6,87,88,102,77,15,Urgent
+Abdominal Pain,97.3,66,82,103,73,30,Emergent
+Eye Irritation,96.7,117,80,127,65,23,Emergent
+Back Pain,96.2,92,82,160,104,16,Emergent
+Skin Rash,96.2,91,83,109,61,29,Emergent
+Fever,98.8,83,92,162,107,24,Semi-Urgent
+Joint Pain,100.7,103,91,179,71,16,Semi-Urgent
+Allergic Reaction,103.8,128,86,133,104,20,Emergent
+Headache,100.0,87,91,106,116,16,Semi-Urgent
+Diarrhea,99.8,139,93,118,91,28,Emergent
+Back Pain,100.2,77,87,94,91,12,Urgent
+Back Pain,99.6,99,88,124,65,22,Urgent
+Allergic Reaction,98.5,126,97,168,92,12,Urgent
+Sore Throat,103.8,76,87,127,61,15,Emergent
+Allergic Reaction,102.4,133,84,139,63,22,Emergent
+Headache,98.0,109,86,140,109,23,Urgent
+Allergic Reaction,101.2,104,90,147,67,25,Urgent
+Sore Throat,101.1,128,84,120,81,23,Emergent
+Joint Pain,97.8,92,97,147,102,13,Semi-Urgent
+Abdominal Pain,96.9,99,89,90,79,21,Urgent
+Shortness of Breath,99.6,128,89,99,93,20,Urgent
+Diarrhea,100.2,75,100,142,98,23,Semi-Urgent
+Skin Rash,101.7,127,91,94,78,27,Urgent
+Dizziness,99.2,102,92,160,96,30,Semi-Urgent
+Diarrhea,104.7,69,93,129,98,19,Emergent
+Cough,97.9,98,93,113,114,27,Semi-Urgent
+Abdominal Pain,96.2,138,93,133,75,30,Emergent
+Fever,102.2,139,88,107,61,27,Emergent
+Eye Irritation,100.5,131,100,171,68,14,Emergent
+Cut,101.7,119,85,154,60,25,Urgent
+Allergic Reaction,101.5,93,93,90,120,20,Urgent
+Diarrhea,102.5,140,96,149,103,19,Emergent
+Back Pain,98.7,139,80,147,60,13,Emergent
+Eye Irritation,102.3,61,82,161,60,16,Emergent
+Cough,102.7,62,100,145,64,21,Urgent
+Burn,101.2,135,98,161,96,20,Emergent
+Diarrhea,101.4,139,82,141,61,15,Emergent
+Cough,101.6,56,83,132,116,21,Emergent
+Headache,104.0,75,98,108,77,21,Emergent
+Cut,100.0,104,87,152,88,13,Urgent
+Cut,96.8,117,91,123,107,28,Urgent
+Diarrhea,97.3,81,82,166,79,27,Emergent
+Joint Pain,104.6,79,85,162,76,15,Emergent
+Headache,104.2,118,90,169,101,20,Emergent
+Cough,98.1,90,94,112,91,13,Non-Urgent
+Cut,101.6,76,87,110,78,24,Urgent
+Shortness of Breath,102.5,84,96,96,106,23,Urgent
+Back Pain,101.7,130,86,163,107,24,Urgent
+Allergic Reaction,99.0,89,89,102,91,19,Urgent
+Abdominal Pain,101.5,75,96,103,107,29,Urgent
+Burn,97.9,65,95,168,91,16,Non-Urgent
+Shortness of Breath,104.7,66,93,147,71,15,Emergent
+Skin Rash,102.5,61,96,129,119,20,Urgent
+Fever,98.7,110,95,107,120,29,Semi-Urgent
+Vomiting,100.5,134,85,129,89,26,Emergent
+Joint Pain,98.1,55,92,97,66,27,Semi-Urgent
+Fever,103.3,54,88,112,111,20,Emergent
+Eye Irritation,97.1,120,93,149,88,21,Urgent
+Joint Pain,103.8,87,97,115,87,29,Emergent
+Back Pain,103.4,127,87,137,101,13,Emergent
+Chest Pain,101.8,62,100,90,61,28,Urgent
+Allergic Reaction,97.2,130,96,123,96,17,Urgent
+Fatigue,101.6,110,82,107,97,29,Emergent
+Abdominal Pain,104.0,115,93,139,68,17,Emergent
+Vomiting,99.2,104,100,92,98,28,Semi-Urgent
+Nausea,98.1,52,98,158,107,29,Non-Urgent
+Ear Pain,96.5,68,80,130,74,16,Emergent
+Joint Pain,100.7,63,100,164,61,28,Semi-Urgent
+Skin Rash,104.8,133,100,151,116,14,Emergent
+Chest Pain,103.6,92,87,136,79,28,Emergent
+Abdominal Pain,99.7,119,98,113,88,19,Urgent
+Fever,102.9,70,95,139,77,23,Urgent
+Ear Pain,104.0,123,99,109,104,12,Emergent
+Cough,99.6,108,85,125,71,18,Urgent
+Nausea,101.8,78,94,105,96,13,Urgent
+Burn,100.9,77,98,173,69,12,Semi-Urgent
+Shortness of Breath,99.2,115,86,153,120,15,Urgent
+Burn,99.1,115,91,137,104,24,Urgent
+Fever,99.0,66,94,165,116,21,Non-Urgent
+Back Pain,100.8,72,92,168,66,26,Semi-Urgent
+Headache,101.6,55,92,103,88,18,Urgent
+Sore Throat,99.6,103,83,96,118,16,Emergent
+Dizziness,100.6,66,93,120,69,12,Semi-Urgent
+Vomiting,101.8,56,86,174,119,14,Urgent
+Abdominal Pain,98.5,127,82,162,104,24,Emergent
+Shortness of Breath,99.2,140,85,164,85,13,Emergent
+Fever,101.3,65,80,120,101,18,Emergent
+Dizziness,100.2,128,83,133,66,16,Emergent
+Nausea,104.3,134,92,130,82,21,Emergent
+Vomiting,96.2,68,85,142,66,25,Urgent
+Abdominal Pain,102.1,55,92,102,70,22,Urgent
+Joint Pain,104.1,116,90,170,84,17,Emergent
+Abdominal Pain,101.2,110,84,128,95,13,Emergent
+Fever,99.8,70,96,140,81,24,Semi-Urgent
+Joint Pain,101.4,137,81,178,73,30,Emergent
+Diarrhea,101.8,85,81,122,85,29,Emergent
+Diarrhea,97.6,95,95,178,99,14,Semi-Urgent
+Cough,100.5,119,92,105,61,27,Urgent
+Fatigue,96.6,99,90,140,108,12,Semi-Urgent
+Vomiting,101.0,95,89,135,109,18,Urgent
+Nausea,102.6,127,87,159,78,17,Urgent
+Headache,101.0,112,91,161,69,18,Urgent
+Vomiting,102.3,92,94,161,100,21,Urgent
+Sore Throat,97.7,61,100,149,102,24,Non-Urgent
+Cough,98.8,135,81,99,120,26,Emergent
+Ear Pain,102.9,106,94,164,106,21,Urgent
+Burn,104.2,106,81,158,67,27,Emergent
+Shortness of Breath,98.3,118,99,148,109,28,Urgent
+Fever,98.5,82,86,171,61,28,Urgent
+Skin Rash,103.3,75,93,104,87,19,Emergent
+Fever,104.3,73,95,117,64,22,Emergent
+Allergic Reaction,101.3,104,94,126,63,28,Urgent
+Dizziness,105.0,91,80,180,92,17,Emergent
+Burn,96.6,66,98,102,61,20,Non-Urgent
+Headache,103.4,116,100,110,99,26,Emergent
+Eye Irritation,102.8,60,96,128,63,29,Urgent
+Allergic Reaction,98.4,50,95,120,102,21,Non-Urgent
+Cough,103.8,59,90,114,109,21,Emergent
+Diarrhea,103.7,93,100,111,119,13,Emergent
+Nausea,101.7,121,97,161,83,29,Urgent
+Allergic Reaction,100.9,111,100,109,105,12,Urgent
+Abdominal Pain,99.9,84,83,160,104,28,Emergent
+Eye Irritation,103.3,65,89,141,91,19,Emergent
+Skin Rash,100.1,132,82,104,82,20,Emergent
+Abdominal Pain,97.0,112,99,141,107,28,Urgent
+Dizziness,101.3,117,83,136,65,24,Emergent
+Chest Pain,100.8,73,88,171,99,24,Urgent
+Dizziness,99.6,109,86,142,93,12,Urgent
+Vomiting,96.2,110,82,135,95,25,Emergent
+Cut,102.9,116,100,114,72,18,Urgent
+Sore Throat,101.1,132,95,120,98,22,Emergent
+Chest Pain,98.1,71,87,128,74,22,Urgent
+Headache,96.0,52,87,125,94,14,Urgent
+Sore Throat,103.3,94,81,106,107,25,Emergent
+Abdominal Pain,101.9,76,92,135,66,15,Urgent
+Fever,97.5,114,97,121,62,12,Urgent
+Joint Pain,101.7,104,85,98,105,18,Urgent
+Cough,99.7,129,94,176,115,16,Urgent
+Fatigue,102.4,59,85,92,83,22,Urgent
+Eye Irritation,100.8,104,82,169,117,17,Emergent
+Cough,101.3,76,87,106,93,24,Urgent
+Abdominal Pain,104.4,72,98,117,106,22,Emergent
+Abdominal Pain,99.9,57,86,170,102,29,Urgent
+Back Pain,100.8,140,89,146,103,21,Emergent
+Cough,100.9,96,88,140,91,21,Urgent
+Burn,98.7,72,89,113,76,19,Urgent
+Skin Rash,102.3,65,86,143,69,22,Urgent
+Chest Pain,98.3,62,93,108,85,29,Semi-Urgent
+Diarrhea,100.2,97,86,150,84,24,Urgent
+Sore Throat,98.9,131,98,119,109,13,Emergent
+Back Pain,103.7,132,98,135,109,15,Emergent
+Headache,100.4,114,84,158,63,13,Emergent
+Vomiting,101.4,132,84,114,108,13,Emergent
+Cut,97.5,67,87,130,90,30,Urgent
+Nausea,104.4,118,88,93,70,15,Emergent
+Fever,96.6,126,81,102,94,18,Emergent
+Eye Irritation,102.3,104,95,100,92,12,Urgent
+Back Pain,104.8,62,94,158,114,15,Emergent
+Back Pain,103.1,59,83,127,75,29,Emergent
+Skin Rash,101.2,113,100,176,60,24,Urgent
+Diarrhea,103.4,124,84,163,94,19,Emergent
+Abdominal Pain,103.6,137,87,137,77,18,Emergent
+Cough,101.0,61,99,128,69,19,Semi-Urgent
+Fever,102.5,88,84,173,61,26,Emergent
+Chest Pain,105.0,118,81,169,105,22,Emergent
+Sore Throat,103.5,65,93,135,111,24,Emergent
+Ear Pain,103.2,96,89,126,113,24,Emergent
+Dizziness,103.0,62,81,139,87,23,Emergent
+Ear Pain,104.4,53,96,152,89,30,Emergent
+Vomiting,101.5,90,99,130,72,23,Urgent
+Back Pain,96.6,110,83,90,93,12,Emergent
+Ear Pain,102.0,122,99,111,70,16,Urgent
+Nausea,96.9,131,92,136,118,28,Emergent
+Vomiting,104.2,122,82,108,69,19,Emergent
+Skin Rash,101.5,85,87,137,67,26,Urgent
+Fatigue,98.4,61,85,163,102,15,Urgent
+Nausea,98.9,74,83,180,85,15,Emergent
+Nausea,97.0,52,80,167,119,21,Emergent
+Vomiting,103.2,64,87,125,81,18,Emergent
+Headache,96.1,96,85,142,88,26,Urgent
+Fever,102.5,124,81,111,104,15,Emergent
+Skin Rash,96.7,72,83,122,92,28,Emergent
+Eye Irritation,96.1,70,99,150,88,15,Non-Urgent
+Headache,104.4,137,90,138,87,13,Emergent
+Cut,102.2,118,82,111,114,27,Emergent
+Back Pain,98.7,118,84,103,81,20,Emergent
+Joint Pain,100.0,134,84,156,88,23,Emergent
+Cough,103.6,93,95,128,69,18,Emergent
+Sore Throat,104.8,51,80,99,109,22,Emergent
+Burn,104.4,124,84,103,100,30,Emergent
+Fatigue,103.1,54,95,135,75,13,Emergent
+Fever,103.4,87,91,137,73,13,Emergent
+Sore Throat,100.2,101,80,158,78,30,Emergent
+Joint Pain,99.8,127,83,109,73,21,Emergent
+Cough,100.3,91,84,134,76,16,Emergent
+Back Pain,104.6,111,80,122,72,15,Emergent
+Ear Pain,98.9,96,92,114,112,15,Semi-Urgent
+Sore Throat,104.6,95,83,102,80,15,Emergent
+Skin Rash,98.0,58,91,92,95,12,Semi-Urgent
+Vomiting,100.7,93,92,178,107,12,Semi-Urgent
+Fatigue,96.7,75,93,151,67,13,Semi-Urgent
+Nausea,96.9,137,98,141,81,26,Emergent
+Burn,102.9,139,80,92,120,15,Emergent
+Eye Irritation,98.9,116,88,115,80,29,Urgent
+Skin Rash,104.6,73,89,124,100,23,Emergent
+Shortness of Breath,101.7,84,100,129,117,15,Urgent
+Eye Irritation,97.3,113,99,165,84,27,Urgent
+Chest Pain,104.6,88,98,138,95,18,Emergent
+Headache,103.5,81,90,158,69,19,Emergent
+Sore Throat,100.4,132,94,130,112,25,Emergent
+Fatigue,104.8,51,84,99,94,26,Emergent
+Burn,104.6,102,99,101,93,13,Emergent
+Abdominal Pain,97.4,83,92,128,111,30,Semi-Urgent
+Nausea,101.1,104,88,169,120,13,Urgent
+Headache,104.3,89,97,131,69,25,Emergent
+Vomiting,96.8,53,82,160,65,22,Emergent
+Dizziness,104.9,84,83,163,87,15,Emergent
+Vomiting,99.3,58,83,91,93,27,Emergent
+Dizziness,97.9,67,91,115,93,14,Semi-Urgent
+Shortness of Breath,103.2,60,84,166,84,14,Emergent
+Abdominal Pain,100.2,55,97,98,110,25,Semi-Urgent
+Allergic Reaction,96.8,90,85,123,119,14,Urgent
+Eye Irritation,97.4,101,97,127,96,29,Semi-Urgent
+Vomiting,102.3,127,98,166,90,23,Urgent
+Burn,103.2,139,86,157,95,21,Emergent
+Vomiting,99.4,114,98,135,81,22,Urgent
+Back Pain,99.8,68,95,122,67,24,Semi-Urgent
+Fever,101.1,129,100,95,120,13,Urgent
+Sore Throat,99.9,66,94,157,62,14,Semi-Urgent
+Joint Pain,98.9,118,99,134,82,30,Urgent
+Ear Pain,97.4,72,84,176,85,15,Emergent
+Ear Pain,98.6,63,87,106,64,13,Urgent
+Eye Irritation,98.2,99,89,160,118,14,Urgent
+Sore Throat,101.0,95,96,160,90,17,Semi-Urgent
+Fatigue,96.9,139,98,138,112,12,Emergent
+Joint Pain,103.7,72,97,140,88,28,Emergent
+Nausea,101.8,100,95,91,87,23,Urgent
+Sore Throat,98.1,69,98,101,99,21,Non-Urgent
+Skin Rash,97.0,121,83,114,93,29,Emergent
+Nausea,98.8,104,83,168,63,22,Emergent
+Chest Pain,103.9,68,97,115,78,21,Emergent
+Joint Pain,102.5,64,93,116,105,28,Urgent
+Eye Irritation,96.3,118,80,109,117,30,Emergent
+Diarrhea,103.7,134,100,118,108,17,Emergent
+Shortness of Breath,96.2,86,90,166,63,18,Semi-Urgent
+Burn,103.1,139,88,97,104,15,Emergent
+Chest Pain,96.8,98,98,127,62,30,Semi-Urgent
+Chest Pain,100.7,139,87,173,66,17,Emergent
+Fever,101.5,91,84,145,75,26,Emergent
+Diarrhea,97.7,132,99,179,98,27,Emergent
+Ear Pain,99.1,125,89,162,69,13,Urgent
+Skin Rash,97.3,105,85,135,92,16,Urgent
+Joint Pain,102.4,100,88,159,74,19,Urgent
+Fatigue,101.3,119,89,113,110,15,Urgent
+Ear Pain,99.5,128,91,162,81,12,Urgent
+Sore Throat,99.4,70,90,109,69,17,Semi-Urgent
+Allergic Reaction,96.6,135,98,103,70,23,Emergent
+Allergic Reaction,98.3,83,100,109,92,15,Non-Urgent
+Fever,103.3,136,80,156,94,29,Emergent
+Back Pain,103.4,86,93,112,72,22,Emergent
+Cut,105.0,128,95,137,108,21,Emergent
+Allergic Reaction,99.8,66,99,159,78,12,Semi-Urgent
+Fever,102.5,61,82,142,114,19,Emergent
+Headache,97.8,94,83,179,105,21,Emergent
+Diarrhea,99.0,104,81,111,100,27,Emergent
+Joint Pain,96.1,120,95,130,103,24,Urgent
+Ear Pain,104.2,127,89,127,109,18,Emergent
+Headache,103.7,102,87,177,93,26,Emergent
+Nausea,97.0,61,92,157,116,16,Semi-Urgent
+Burn,96.9,103,80,169,87,20,Emergent
+Abdominal Pain,99.9,122,98,92,75,13,Urgent
+Dizziness,97.8,114,95,116,105,23,Urgent
+Nausea,96.4,121,87,121,99,24,Urgent
+Headache,101.5,88,84,139,70,20,Emergent
+Sore Throat,97.6,117,81,99,95,22,Emergent
+Dizziness,104.6,62,89,149,118,25,Emergent
+Chest Pain,99.8,72,87,100,90,16,Urgent
+Burn,104.5,122,91,161,104,30,Emergent
+Abdominal Pain,103.7,100,93,110,81,19,Emergent
+Nausea,101.6,105,89,111,72,19,Urgent
+Fever,101.8,76,81,156,60,25,Emergent
+Ear Pain,102.2,62,96,117,83,15,Urgent
+Abdominal Pain,97.2,52,98,148,100,17,Non-Urgent
+Sore Throat,99.4,57,100,154,73,28,Semi-Urgent
+Ear Pain,102.1,98,85,145,75,14,Urgent
+Abdominal Pain,103.7,114,89,154,97,30,Emergent
+Abdominal Pain,101.8,78,89,90,94,21,Urgent
+Ear Pain,98.5,69,94,154,99,16,Non-Urgent
+Allergic Reaction,99.4,69,91,117,105,15,Semi-Urgent
+Cut,96.4,96,81,120,103,15,Emergent
+Headache,97.3,86,82,162,112,16,Emergent
+Cut,97.4,126,91,176,91,18,Urgent
+Burn,103.4,65,84,126,93,26,Emergent
+Fever,97.7,74,89,158,110,22,Urgent
+Burn,97.6,54,85,118,89,24,Urgent
+Cough,104.6,105,87,156,85,23,Emergent
+Joint Pain,97.8,106,85,174,88,28,Urgent
+Cut,101.8,97,83,176,117,25,Emergent
+Shortness of Breath,101.8,50,92,151,113,25,Urgent
+Joint Pain,102.6,58,95,172,103,28,Urgent
+Allergic Reaction,98.5,55,81,100,77,27,Emergent
+Burn,97.4,106,98,148,60,16,Semi-Urgent
+Cough,103.9,118,89,176,107,14,Emergent
+Shortness of Breath,100.8,93,80,111,62,29,Emergent
+Skin Rash,104.3,97,84,143,90,12,Emergent
+Joint Pain,97.7,119,88,169,99,24,Urgent
+Ear Pain,98.7,109,81,174,65,13,Emergent
+Burn,103.0,115,88,117,69,12,Urgent
+Chest Pain,99.6,57,91,155,60,30,Semi-Urgent
+Headache,99.2,136,96,145,65,18,Emergent
+Eye Irritation,96.2,129,92,112,113,19,Urgent
+Fever,98.5,113,81,170,96,17,Emergent
+Sore Throat,102.4,50,83,163,117,28,Emergent
+Joint Pain,98.2,92,80,129,69,24,Emergent
+Cut,97.0,139,82,172,106,21,Emergent
+Back Pain,96.8,64,99,106,101,27,Non-Urgent
+Fatigue,97.2,120,90,134,84,29,Urgent
+Cut,100.6,135,84,106,61,22,Emergent
+Sore Throat,98.7,117,98,119,70,22,Urgent
+Headache,99.7,59,81,151,84,12,Emergent
+Abdominal Pain,102.3,65,88,90,87,19,Urgent
